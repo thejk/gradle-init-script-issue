@@ -1,0 +1,5 @@
+task doNothing {
+    doLast {
+        println 'Did nothing'
+    }
+}

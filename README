@@ -1,0 +1,5 @@
+ Example project for issue with init scripts and dependency verification in gradle
+Run:
+./gradlew --init-script init.gradle -q doNothing
+
+to reproduce.
